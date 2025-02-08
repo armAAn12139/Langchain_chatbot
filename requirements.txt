@@ -1,0 +1,7 @@
+flask
+flask-restful
+langchain
+langchain-openai
+chromadb
+bs4
+requests
